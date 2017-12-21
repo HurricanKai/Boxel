@@ -1,0 +1,47 @@
+5bit:
+  - [221, 221, 221]   # white
+  - [219, 125,  62]   # orange
+  - [179,  80, 188]   # magenta
+  - [107, 138, 201]   # light blue
+  - [177, 166,  39]   # yellow
+  - [ 65, 174,  56]   # lime
+  - [208, 132, 153]   # pink
+  - [ 64,  64,  64]   # gray
+  - [154, 161, 161]   # light gray
+  - [ 46, 110, 137]   # Cyan
+  - [126,  61, 181]   # purple
+  - [ 46,  56, 141]   # blue
+  - [ 79,  50,  31]   # brown
+  - [ 53,  70,  27]   # green
+  - [150,  52,  48]   # red
+  - [ 25,  22,  22]   # black
+  - [209, 175, 159]   # white clay
+  - [161, 82, 37]     # orange clay
+  - [149, 87, 108]    # magenta clay
+  - [112, 108, 138]   # light blue clay
+  - [186, 133, 35]    # yellow clay
+  - [103, 117, 52]    # lime clay
+  - [150, 72, 73]     # pink stained clay
+  - [57, 42, 35]      # gray clay
+  - [135, 106, 97]    # light gray clay
+  - [86, 90, 91]      # cyan clay
+  - [118, 69, 86]     # purple clay
+  - [74, 58, 90]      # blue clay
+  - [77, 50, 36]      # brown clay
+  - [75, 82, 42]      # green clay
+  - [142, 59, 46]     # red clay
+  - [37, 22, 15]      # black clay
+  - [209, 200, 150]   # sand
+  - [227, 227, 227]   # iron block
+  - [239, 236, 108]   # gold block
+  - [154, 220, 217]   # diamond block
+  - [234, 239, 239]   # snow block
+  - [11, 11, 11]      # coal block
+  - [104, 173, 87]    # slime block
+  - [85, 99, 126]     # packed ice block
+  - [157, 80, 28]     # red sandstone
+  - [221, 218, 212]   # quartz block
+  - [191, 191, 84]    # sponge
+  - [123, 126, 30]    # melon block
+  - [31, 54, 106]     # lapiz block
+  - [0, 0, 0]         # coal block

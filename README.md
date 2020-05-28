@@ -57,7 +57,7 @@ Installation
 After you've installed these dependencies, install boxel like any other Python package:
 ```bash
 # using pip
-pip install -e https://github.com/HurricanKai/Boxel.git#egg=boxel
+pip install -e git+https://github.com/HurricanKai/Boxel.git#egg=boxel
 ```
 
 Run it!

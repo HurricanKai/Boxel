@@ -1,5 +1,5 @@
 Pillow==3.0.0
-PyYAML==3.11
+PyYAML==5.4
 Twisted==15.4.0
 autobahn==0.10.9
 click==5.1

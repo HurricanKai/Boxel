@@ -1,4 +1,4 @@
-Pillow==3.0.0
+Pillow==8.2.0
 PyYAML==3.11
 Twisted==15.4.0
 autobahn==0.10.9
